@@ -1,0 +1,20 @@
+table {
+  border-collapse: collapse;
+  margin: auto;
+  border-color: rgb(79, 165, 42);
+}
+td {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: 48px;
+  border: 3px solid rgb(146, 95, 95);
+}
+#title{
+  text-align: center;
+  font-size: 50px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: brown;
+  font-weight: bold;
+
+}
